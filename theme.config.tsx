@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/Jaal-Yantra-Textiles/protocol",
   footer: {
-    text: "Thanks to Nextra Docs Template , we have forked this.",
+    text: "Thanks to Nextra Docs Template , we have forked this. All hats off to Open Source",
   },
 };
 
