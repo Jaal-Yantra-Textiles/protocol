@@ -13,6 +13,10 @@ const config: DocsThemeConfig = {
   footer: {
     text: "Thanks to Nextra Docs Template , we have forked this. All hats off to Open Source",
   },
+  i18n: [
+    { locale: "en-US", text: "English" },
+    { locale: "hi-IN", text: "हिन्दी" },
+  ],
 };
 
 export default config;
